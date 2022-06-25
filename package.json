@@ -24,6 +24,8 @@
     "bootstrap": "^4.5.3",
     "dotenv": "^8.2.0",
     "jquery": "^3.5.1",
-    "popper.js": "^1.16.1"
+    "opener": "^1.5.2",
+    "popper.js": "^1.16.1",
+    "url-parse": "^1.5.10"
   }
 }
