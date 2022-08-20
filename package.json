@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "@azure/msal-node": "^1.0.0",
+    "@azure/msal-node-extensions": "^1.0.0-alpha.22",
     "axios": "^0.21.4",
     "bootstrap": "^4.5.3",
     "dotenv": "^8.2.0",

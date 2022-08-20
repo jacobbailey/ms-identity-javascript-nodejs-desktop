@@ -22,8 +22,3 @@ jobs:
       # Runs a single command using the runners shell
       - name: NPM install
         run: npm i --loglevel silly
-      
-      - uses: actions/upload-artifact@v3
-        with:
-          name: my-artifact
-          path: node_modules
